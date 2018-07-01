@@ -1,5 +1,5 @@
 // Initial cache name
-var cacheName = 'v1'; 
+var cacheName = 'currency-converter1'; 
 
 // Files to be cached
 var cacheFiles = [
@@ -13,8 +13,7 @@ var cacheFiles = [
   'https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js',
   './manifest.json',
-  './logo.jpg',
-  './img/bg.jpg'
+  './logo.jpg'
 ]
 
 
