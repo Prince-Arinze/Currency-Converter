@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(#000000bf, #000000c9), url(../img/money2.jpg);
+    background: linear-gradient(#000000bf, #000000c9), url(/img/money2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -16,11 +16,12 @@ body {
 
 .exchange-icon {
     font-size: 21px;
-    margin: 10px 210px;
+    margin: 15px 210px;
     color: #150669 !important;
+    margin-top: 30px;
 }
 
-.myinn {
+.myInput {
     border: 1px solid gainsboro;
     height: 70px;
 }
@@ -29,6 +30,7 @@ body {
     width: 100% !important;
     height: 70px;
     border: 1px solid gainsboro;
+    margin-top: 10px;
 }
 
 
@@ -44,13 +46,6 @@ body {
 .body-backgound {
     border-bottom: 1px solid gainsboro;
 }
-
-.bg-black {
-    background-color: #1a1a1a;
-    min-height: 119px;
-    border-bottom: 4px solid #424242;
-}
-
 .text-white {
     color: white;
 }
