@@ -13,7 +13,8 @@ var cacheFiles = [
   'https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css',
   'https://cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js',
   './manifest.json',
-  './logo.jpg'
+  './logo.jpg',
+  './img/bg.jpg'
 ]
 
 

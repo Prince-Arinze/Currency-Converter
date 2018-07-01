@@ -13,12 +13,6 @@
     }
 
   ],
-  "images": [
-    {
-     "src": "https://prince-arinze.github.io/Currency-Converter/img/bg.jpg",
-     "type": "image/jpg"
-    }
-  ],
   "manifest_version": 2,
   "name": "Currency Converter",
   "orientation": "portrait",
